@@ -120,7 +120,7 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 
 На Windows:
 
-Установи Visual Studio 2022 Community. При установке выбери опцию "Desktop development with C++"). Затем скачай и запусти [rustup-init.exe](https://rustup.rs).
+Установи Visual Studio 2026 Community. При установке выбери опцию "Desktop development with C++"). Затем скачай и запусти [rustup-init.exe](https://rustup.rs).
 
 После установки перезапусти терминал и проверь:
 
